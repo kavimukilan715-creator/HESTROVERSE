@@ -1,0 +1,6 @@
+{
+  "name": "HistoVerse",
+  "description": "An educational museum archive examining sovereign law codes, judicial torture doctrines, and the historical transition toward legal reform across world civilizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
